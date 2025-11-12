@@ -1,0 +1,17 @@
+# Core Deep Learning and Numerical Libraries
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Notebook Environment
+jupyter==1.1.1
+ipython==8.28.0
+
+# Optional (for better progress bars and environment info)
+tqdm==4.66.5
