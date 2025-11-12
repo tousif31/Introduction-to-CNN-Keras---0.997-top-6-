@@ -13,18 +13,6 @@ It was developed as part of a 7th semester deep learning project and achieved **
 - Includes **data preprocessing**, **augmentation**, and **model evaluation**
 - Provided as a Jupyter Notebook for easy experimentation
 
----
-
-## 🗂️ Project Structure
-Introduction-to-CNN-Keras---0.997-top-6-/
-│
-├── introduction-to-cnn-keras-0.997-top-6.ipynb # Main Jupyter notebook
-├── digit-recognizer.zip # Dataset archive (if included)
-├── README.md # Project documentation
-└── requirements.txt # Dependencies (optional)
-
-yaml
-Copy code
 
 ---
 
